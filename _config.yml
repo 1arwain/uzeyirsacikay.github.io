@@ -1,6 +1,5 @@
 title: Üzeyir Saçıkay's Webpage
-logo: /misc/_IMG-20200916-WA0012.jpg
-description: I am a first-year M.Sc. student at LMU Munich. 
+logo: /assets/img/uzeyir.png
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
