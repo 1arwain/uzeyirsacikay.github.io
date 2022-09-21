@@ -2,4 +2,4 @@ I am a first-year M.Sc. student at the [Theoretical and Mathematical Physics](ht
 
 I did my B.Sc (double degree in Physics and Mathematics) at Boğaziçi University, İstanbul.
 
-[CV](https://github.com/uzeyirsc/uzeyirsc.github.io/blob/main/assets/cv.pdf)
+My CV can be found [here](https://github.com/uzeyirsc/uzeyirsc.github.io/blob/main/assets/cv.pdf).
